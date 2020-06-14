@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04cbac9334a61664d8d4be6c807e24a4, type: 3}
+  m_Name: Basic Shapes Index
+  m_EditorClassIdentifier: 
+  m_Shapes:
+  - m_GroupName: Advanced
+    m_Prefabs:
+    - {fileID: 172832, guid: 22500f88e48c3ce429a4019047788c61, type: 2}
+    - {fileID: 196850, guid: 597565444d0159741be41d3c0d0ce88e, type: 2}
+    - {fileID: 161986, guid: c94f69165511cb34ab0251a394d0b05b, type: 2}
+    - {fileID: 166470, guid: 5c7e61c8ef4d95241875e9cf970dd61d, type: 2}
+    - {fileID: 142012, guid: abdbbb0bde4ad074daf2ec0ec9ff61fd, type: 2}
+  - m_GroupName: Basics
+    m_Prefabs:
+    - {fileID: 150854, guid: a7a6ec9061455674b8af27b843edbfc1, type: 2}
+    - {fileID: 171160, guid: 38c0a5a4614167d4b8f58cfeeb9a9100, type: 2}
+  - m_GroupName: Capsules
+    m_Prefabs:
+    - {fileID: 189206, guid: 5050ce70209adf641ac387fffeeb1435, type: 2}
+    - {fileID: 177142, guid: a134e6f06b4cc3845ae0b629edcaa5e2, type: 2}
+  - m_GroupName: Planes
+    m_Prefabs:
+    - {fileID: 135982, guid: 102988104e2cf5242b06f9b31db8445e, type: 2}
+    - {fileID: 106978, guid: af2ffcb000003b04695f6432bb321e41, type: 2}
+    - {fileID: 171196, guid: 5fc1de196dcb2c3428d3b201317d7c65, type: 2}
+    - {fileID: 117048, guid: 688c6ecb2293550418d536f03ed769e0, type: 2}
+    - {fileID: 131454, guid: d39f8fd8a581d314c8829ed2d8bb912b, type: 2}
+    - {fileID: 181128, guid: f501abb469d05d447bc32704bb307761, type: 2}
+  - m_GroupName: Quads
+    m_Prefabs:
+    - {fileID: 170642, guid: a6d2da54d16f3a441ad91812e3d51ccd, type: 2}
+    - {fileID: 109858, guid: 095b010550887fc4a9e0931cdb3f9a12, type: 2}
+    - {fileID: 176062, guid: be33a26b39706484098f5e07fa1fa95c, type: 2}
+    - {fileID: 133296, guid: c3dc0241b04023b439b8851d289de998, type: 2}
+    - {fileID: 121974, guid: 72e02c13c5852834281c31ec989851d8, type: 2}
+    - {fileID: 178432, guid: cb8336aac7b2d9d4d8be04b6ed37be6c, type: 2}
+  - m_GroupName: 2D
+    m_Prefabs:
+    - {fileID: 1553011449937092, guid: 7934b08da1e18a045bd1c8a83a4cdbfb, type: 2}
+    - {fileID: 1207264439788052, guid: fd2b4f0fc84dfd54c8e5edc27b1f8cf6, type: 2}
+    - {fileID: 1620380037606876, guid: 9a17a557f663e0641b3a0c96267fa570, type: 2}
+    - {fileID: 1850004853165260, guid: 2eb2cace144f7004a8ac87ce9c45dc6d, type: 2}
