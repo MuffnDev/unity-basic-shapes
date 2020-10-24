@@ -10,7 +10,7 @@ namespace MuffinDev
     /// <summary>
     /// References all basic shape prefabs, and add editor menus to instantiate them.
     /// </summary>
-	[CreateAssetMenu(fileName = "Basic Shapes Index", menuName = "Muffin Dev/Editor/Basic Shapes Index")]
+	[CreateAssetMenu(fileName = "Basic Shapes Index", menuName = "Muffin Dev/Basic Shapes/Basic Shapes Index")]
 	public class BasicShapesIndex : ScriptableObjectSingleton<BasicShapesIndex>
 	{
 

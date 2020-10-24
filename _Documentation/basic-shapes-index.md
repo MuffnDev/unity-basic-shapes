@@ -10,6 +10,6 @@ This class adds additional menu to the editor, **so it is meant to be used only 
 
 An asset of this type already exists in this module's folder (in *Basic Shapes/Editor/Resources*).
 
-If the asset is missing, you can create a new asset of this type, click on *Assets > Create > Muffin Dev > Editor > Basic Shapes Index*.
+If the asset is missing, you can create a new asset of this type, click on *Assets > Create > Muffin Dev > Basic Shapes > Basic Shapes Index*.
 
 You must reference all prefabs of Basic Shapes module inside this asset, sorted by groups. Note that group names are same as folder names ("Advanced", "Capsules", ...).
