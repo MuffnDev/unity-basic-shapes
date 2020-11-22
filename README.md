@@ -4,4 +4,4 @@ Bundle of basic shapes models, and ready-to-use prefabs.
 
 ## Documentation
 
-[=> See module documentation](./_Documentation/README.md)
+[=> See module documentation](./Documentation~/README.md)
