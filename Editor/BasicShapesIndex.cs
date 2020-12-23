@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 #if UNITY_EDITOR
 using UnityEditor;
-using MuffinDev.EditorUtils;
+using MuffinDev.BasicShapes.Utilities;
 #endif
 
-namespace MuffinDev
+namespace MuffinDev.BasicShapes
 {
 
     /// <summary>
